@@ -10,3 +10,4 @@ pygame
 # Run in GitPod
 
 You can also run checker in Gitpod, a free online dev environment for GitHub:
+(https://gitpod.io/#https://github.com/yashkr18/AI-checker-game)
